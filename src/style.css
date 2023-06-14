@@ -1,5 +1,6 @@
 body {
   font-family: arial, sans-serif;
+  background-color: #f6f3ff;
 }
 
 h1 {
@@ -37,7 +38,7 @@ li:first-letter {
 
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadce0;
+  border: 1px solid #272044;
   border-radius: 5px;
 }
 
